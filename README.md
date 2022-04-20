@@ -12,3 +12,5 @@
 
 email: sethma96@gmail.com <br>
 password :govi9667
+
+# Email functions included but its commented because of a mailtrap config issue
